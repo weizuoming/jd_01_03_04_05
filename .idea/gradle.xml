@@ -8,7 +8,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/01_fresco" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app0_3" />
+            <option value="$PROJECT_DIR$/app0_4" />
+            <option value="$PROJECT_DIR$/app0_5" />
+            <option value="$PROJECT_DIR$/zxinglibrary" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
