@@ -1,1 +1,1 @@
-include ':app', ':app0_3', ':zxinglibrary', ':app0_4', ':app0_5', ':01_fresco'
+include ':app', ':app0_3', ':zxinglibrary', ':app0_4', ':app0_5', ':1_fresco'
